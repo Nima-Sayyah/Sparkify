@@ -1,4 +1,4 @@
-# Sparkify: Predicting Churn for a Music Streaming Service 
+# Sparkify: Predicting Churn (Music Streaming Service) 
 
 ## Required Python Libraries
  - NumPy

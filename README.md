@@ -1,6 +1,12 @@
 # Sparkify: Predicting Churn (Music Streaming Service) 
 
-## Project Motivation
+## Table of Contents 
+1. [Project Introduction](#motivation)
+2. [Project Descriptions](#descriptions)
+3. [Files Descriptions](#files)
+4. [Installation](#installation)
+5. [Instructions](#instructions)
+
 This project concerns predicting customer churn for a concept music streaming service named as **Sparkify**. 
 
 The project involves:

@@ -2,8 +2,8 @@
 
 ## Table of Contents 
 1. [Project Descriptions](#descriptions)
-2. [Files Descriptions](#files)
-3. [Libraries](#libraries)
+2. [Libraries](#libraries) 
+3. [Files Descriptions](#files)
 4. [Instructions](#instructions)
 
 
@@ -25,5 +25,9 @@ The project involves:
  - PySpark ML 
  
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
+
+
+## Files Descriptions<a name = "files descriptions"></a>
+
 
 

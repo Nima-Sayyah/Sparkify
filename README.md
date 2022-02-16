@@ -1,5 +1,8 @@
 # Sparkify (Music Streaming Service) 
 
+## This Project is in Progress..
+### Description will be completed after finalisation.
+
 ## Table of Contents 
 1. [Project Descriptions](#descriptions)
 2. [Libraries](#libraries) 

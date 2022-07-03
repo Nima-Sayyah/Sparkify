@@ -27,7 +27,14 @@ The project involves:
  - PySpark SQL
  - PySpark ML 
  
-No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
+## Instructions <a name = "instructions"></a>
+ 
+Anaconda distribution of Python and Jupyter notebooks. I used Pipenv tool to establish a Virtual Environment and install the dependencies.
+
+- Install Pipenv
+- Use Pipenv Shell to activate the session
+- Install the required packages
+- If Jupyter Notebook is used, it must be installed and accessed via pipenv NOT Anaconda-Navigator, for an active Spark session.
 
 
 ## Files Descriptions<a name = "files descriptions"></a>
